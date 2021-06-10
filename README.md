@@ -6,7 +6,7 @@ The course provided me an excellent opportunity to develop an work at Goldman Sa
 Overview
 As a governance analyst it is part of your duties to assess the level of protection offered by implemented controls and minimize the probability of a successful breach. You often need to know the techniques used by hackers to circumvent implemented controls and propose uplifts to increase the overall level of security in an organization. Gaining valid credentials gives the attackers access to the organization’s IT system, thus circumventing most of perimeter controls in place.
 
-## Project Objectuve
+## Project Objectives
 What type of hashing algorithm was used to protect passwords?
 
 What level of protection does the mechanism offer for passwords?
@@ -19,8 +19,8 @@ https://github.com/Pramodsheoran599/Goldman-Sachs-Engineering-Virtual-Program/bl
 
 After the conducted analysis it was determined that organization uses an outdated password hashing algorithm (MD5) which offers very little protection in the event of a password database leaking. It was also determined that the current password policy is not aligned with industry best practices allowing users to have short passwords (6 characters) and reuse usernames as part of passwords.
 
-## Project Report and Observations
-Completing this task assigned by Goldman Sachs, MD5 and SHA were the two algorithms that I came across. Analysing the passwords and their respective security algorithms used, I narrowed down my observations into this report.
+## Project Observations
+Completing this task assigned by Goldman Sachs, MD5 and SHA were the two algorithms that I came across.
 
 Resources
 https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
